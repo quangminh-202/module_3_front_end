@@ -1,0 +1,28 @@
+{
+    "vehicles": [
+      {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Camry",
+        "year": 2020,
+        "isElectric": false,
+        "owner": {
+          "name": "John Doe",
+          "age": 35
+        },
+        "features": ["GPS", "Bluetooth", "Leather Seats"]
+      },
+      {
+        "id": 2,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "year": 2022,
+        "isElectric": true,
+        "owner": {
+          "name": "Jane Smith",
+          "age": 28
+        },
+        "features": ["Autopilot", "Touchscreen", "Electric Motor"]
+      }
+    ]
+  }
